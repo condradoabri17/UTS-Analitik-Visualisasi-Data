@@ -4,3 +4,5 @@ NIM: 2509116069
 Prodi: Sistem Informasi
 Fakultas: Teknik
 Kelas: B
+
+LINK COLAB: https://colab.research.google.com/drive/1xkFqot3wuCs5qC3SELLtgX2C5DebZmiA?usp=sharing
